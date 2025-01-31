@@ -1,3 +1,18 @@
+- title: ACIVS2025
+  year: 2025
+  id: acivs2025
+  link: https://www.acivs2025.com/
+  deadline: '2025-03-15 23:59:59'
+  abstract_deadline: '2025-03-15 23:59:59'
+  timezone: UTC-12
+  place: Tokyo, Japan
+  date: July 28-30, 2025
+  start: 2025-07-28
+  end: 2025-07-30
+  hindex: 100
+  sub: ML
+  note: submissions through CMT, check the conference website <a href='https://www.acivs2025.com/submission/'>here</a>.
+
 - title: AISTATS
   year: 2025
   id: aistats25
